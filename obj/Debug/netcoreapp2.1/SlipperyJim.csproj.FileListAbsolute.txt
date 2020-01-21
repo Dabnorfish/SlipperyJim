@@ -1,0 +1,4 @@
+C:\Users\developer\Downloads\SlipperyJim-master\SlipperyJim-master\obj\Debug\netcoreapp2.1\SlipperyJim.csprojAssemblyReference.cache
+C:\Users\developer\Downloads\SlipperyJim-master\SlipperyJim-master\obj\Debug\netcoreapp2.1\SlipperyJim.csproj.CoreCompileInputs.cache
+C:\Users\developer\Downloads\SlipperyJim-master\SlipperyJim-master\obj\Debug\netcoreapp2.1\SlipperyJim.AssemblyInfoInputs.cache
+C:\Users\developer\Downloads\SlipperyJim-master\SlipperyJim-master\obj\Debug\netcoreapp2.1\SlipperyJim.AssemblyInfo.cs
